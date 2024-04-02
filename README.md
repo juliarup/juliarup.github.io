@@ -8,15 +8,15 @@
 
 
 ## Certyfikaty i kursy
-### [Google Data Analytics Professional Certificate](https://coursera.org/share/6b3663ce3208d04749e25a1bf5bd16d3)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/6b3663ce3208d04749e25a1bf5bd16d3)
 
-### [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/15a1d0cf439495ddc61ffed209b1b2d3cb0825dd)
+- [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/15a1d0cf439495ddc61ffed209b1b2d3cb0825dd)
 
-### [Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/e119cc10a513a8413790bfb1db700d790a3575c2)
+- [Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/e119cc10a513a8413790bfb1db700d790a3575c2)
 
-### [PowerBI](https://www.datacamp.com/completed/statement-of-accomplishment/course/decfba770869641453da4a26fad33d7fc6a0e4fc)
+- [PowerBI](https://www.datacamp.com/completed/statement-of-accomplishment/course/decfba770869641453da4a26fad33d7fc6a0e4fc)
 
-### [DAX in PowerBI](https://www.datacamp.com/completed/statement-of-accomplishment/course/ae81905791eef8c823f612bcdf0c4acd6a290bc4)
+- [DAX in PowerBI](https://www.datacamp.com/completed/statement-of-accomplishment/course/ae81905791eef8c823f612bcdf0c4acd6a290bc4)
 
 
 ## Doświadczenie
