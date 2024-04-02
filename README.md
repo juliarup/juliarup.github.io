@@ -3,7 +3,7 @@
 #### Umiejętności: Python, SQL, PowerBI
 
 ## Wykształcenie
-- Magister, Data Science | Wydził Informatyki | Polsko-Japońska Akademia Technik Komputerowych (_2025_)								       		
+- Magister, Data Science | Wydział Informatyki | Polsko-Japońska Akademia Technik Komputerowych (_2025_)								       		
 - Inżynier, Mechatronika	| Wydział Samochodów i Maszyn Roboczych | Politechnika Warszawska (_2021_)	 			        		
 
 ## Doświadczenie
